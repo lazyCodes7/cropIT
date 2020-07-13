@@ -1,4 +1,4 @@
-# cropIt :scissors:
+# cropIT :scissors:
 Pick images and crop it using image_cropper plugin. Enjoy!
 
 ## How to implement?
